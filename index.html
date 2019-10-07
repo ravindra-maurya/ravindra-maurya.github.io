@@ -11,7 +11,7 @@
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
-<p>Hello World! I’m [username]. This is my website!</p>
+<p>Hello World!!</p>
   
 </body>
 </html>
